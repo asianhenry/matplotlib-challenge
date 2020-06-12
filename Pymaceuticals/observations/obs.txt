@@ -1,0 +1,21 @@
+Observations and Insights
+
+From just a general overview of the data analysis, we can see that out of all the treatments,
+there were only two treatments that showed promising results: Ramicane and Capomulin. From the summary
+statistics, those two treatments were the only ones with mean and median tumor volumes below the initial
+tumor volumes. Perhaps a better representation are the box plots of final tumor volumes showing those
+two treatments trending below the initial tumor volume of each mouse.
+
+We can also look more closely at data for mice treated with the Capomulin regimen, and see that it is
+indeed a promising treatment showing good results for tumor reduction. While the data analysis only shows 
+the line plot for one specific mouse treated with the Capomulin regimen, when changing the observed mouse 
+and briefly looking at the line plots for different mice treated with Capomulin, we can see that each mouse 
+shows a general downward trend of the tumor volume.
+
+Lastly the linear regression analysis of Average Tumor Volume vs Mouse Weight for the Capomulin Regimen shows
+a decently strong linear trend between the two variables; correlation coefficient is 0.842. Since the initial
+tumor volumes were constant for each mouse, this perhaps suggests that a larger dose or some other variable change 
+in treatment is required for larger or heavier mice (eventually people) to effectively reduce tumor volume.
+
+
+
